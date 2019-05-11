@@ -5,7 +5,6 @@
   },
   "scripts": {
     "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs",
-    "theme:dev": "vuepress dev theme"
+    "docs:build": "vuepress build docs && ./deploy.sh"
   }
 }
