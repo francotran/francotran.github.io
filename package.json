@@ -5,6 +5,8 @@
   },
   "scripts": {
     "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs && ./deploy.sh"
+    "prebuild": "rm -rf node_modules && yarn install",
+    "docs:build": "yarn prebuild && vuepress build docs && yarn postbuild",
+    "postbuild": "./deploy.sh"
   }
 }
