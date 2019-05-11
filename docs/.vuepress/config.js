@@ -1,6 +1,9 @@
 module.exports = {
   title: "Đỗ Đình Thy Sơn",
   description: "Software engineer",
+  head:[
+    ['link', { href:'https://fonts.googleapis.com/css?family=Josefin+Sans:600i&amp;subset=vietnamese', rel:'stylesheet'}]
+  ],
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },

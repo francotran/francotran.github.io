@@ -9,7 +9,7 @@ meta:
 sidebar: auto
 pageClass: resume-class
 ---
-# Do Dinh Thy Son
+<h1 class='display'> Đỗ Đình Thy Sơn </h1>
 <div class='subtitle'><em>Full-stack software engineer</em></div>
 
 ::: contacts
@@ -45,17 +45,20 @@ Hi, my name is Sơn, or you can just call me Tyson. I’m a software engineer wh
 ## Work experience
 ### InApps Technology
 2018 - Present
+
 Backend Engineer / IT Offshore / Beta Particle – US
 Work as a developer to develop and deploy websites written in Swift¬¬
 
 SwiftEngine is the first Serverless Swift Platform for web development.
--	Products:
-o	https://swiftengine.io
-o	https://play.swiftengine.io
--	Technologies:
-o	Swift for Linux
-o	Nginx
-o	Docker
+
+Products
+  -	https://swiftengine.io
+  -	https://play.swiftengine.io
+
+Technologies
+  -	Swift for Linux
+  -	Nginx
+  -	Docker
 
 ### Innovatube
 2016-2018
