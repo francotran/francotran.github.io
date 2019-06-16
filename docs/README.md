@@ -1,26 +1,25 @@
 ---
-title: Do Dinh Thy Son
+title: Tran Anh Phuong 
 lang: en-US
 meta:
   - name: description
     content: My personal experience
   - name: keywords
-    content: full-stack engineer software developer
+    content: Marketing & Communication Specialist
 sidebar: auto
 pageClass: resume-class
 ---
-<h1 class='display'> Đỗ Đình Thy Sơn </h1>
-<div class='subtitle'><em>Full-stack software engineer</em></div>
+<h1 class='display'> Tran Anh Phuong </h1>
+<div class='subtitle'><em>Marketing & Communication Specialist</em></div>
 
 ::: contacts
 [LinkedIn](https://www.linkedin.com/in/đỗ-đình-thy-sơn-532b7886)
-[Github](https://github.com/doraeminemon)
-[Email](mailto:dodinhthyson@gmail.com)
+[Email](mailto:phuongtran.work@gmail.com)
 :::
 
-## Personal statement
+## PERSONAL STATEMENT
 Hi, my name is Sơn, or you can just call me Tyson. I’m a software engineer who worked on multiple languages so quick learning has become one of my skillset. Having worked on multiple start up project meaning I have drilled with the mindset to get things work, fast. Beside that, I am interested as well as understand the business to focus on the business end goal to made the best technical choices. Above all, I’m a team player who can ignore any personal issues to achieve the team’s goal.
-## Technical skill
+## PROFESSIONAL SKILLS
 ### Front-end
 - Bootstrap, Responsive design, React, VueJS
 ### Mobile
@@ -42,9 +41,9 @@ Hi, my name is Sơn, or you can just call me Tyson. I’m a software engineer wh
 -	E2E testing using Python Selenium, integrate it with production environment using Docker and Concourse
 -	Git standard
 
-## Work experience
-### InApps Technology
-2018 - Present
+## WORK EXPERIENCE
+### Marketing Lead | GetLinks Vietnam 
+*11/ 2018 - Present*
 
 Backend Engineer / IT Offshore / Beta Particle – US
 Work as a developer to develop and deploy websites written in Swift¬¬
@@ -101,11 +100,9 @@ Available upon request
 Mr. Tri Nguyen – InApps Tech Lead
 Mr. Eugene Nguyen – Innovatube Lead Project Manager
 
-## Education
-### James Cook University Singapore
-2013 - 2014
-
-Bachelor of IT – Game design major
+## EDUCATION
+### Diplomatic Academy of Vietnam
+2013 - 2017 | Bachelor of International Communication and Culture
 -	Game design using Unity engine
 -	Hands on game networking using C# by creating a network multiplayer chess game client – server
 -	Studying algorithm and basic programming theories and concept

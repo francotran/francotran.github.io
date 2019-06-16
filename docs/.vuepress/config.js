@@ -1,8 +1,8 @@
 module.exports = {
-  title: "Đỗ Đình Thy Sơn",
-  description: "Software engineer",
+  title: "Tran Anh Phuong",
+  description: "Marketing & Communication Specialist",
   head:[
-    ['link', { href:'https://fonts.googleapis.com/css?family=Josefin+Sans:600i&amp;subset=vietnamese', rel:'stylesheet'}]
+    ['link', { href:'https://fonts.googleapis.com/css?family=Roboto+Slab:700', rel:'stylesheet'}]
   ],
   themeConfig: {
     nav: [
